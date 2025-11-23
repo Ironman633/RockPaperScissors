@@ -61,6 +61,7 @@ Place these images in the SAME folder as `main.py`:
 ### 1️⃣ Install Dependencies  
 ```bash
 pip install kivy kivymd
+```
 Keep all files together
 main.py
 background.jpg
