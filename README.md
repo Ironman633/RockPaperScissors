@@ -64,10 +64,10 @@ pip install kivy kivymd
 ```
 # Keep all files together
 📁 Game
-│── main.py
-│── background.jpg
-│── game_background.jpg
-│── stone.png
-│── paper.png
-│── scissors.png
+- │── main.py
+- │── background.jpg
+- │── game_background.jpg
+- │── stone.png
+- │── paper.png
+- │── scissors.png
 
