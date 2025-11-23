@@ -62,7 +62,7 @@ Place these images in the SAME folder as `main.py`:
 ```bash
 pip install kivy kivymd
 ```
-# Keep all files together
+### Keep all files together
 📁 Game
 - │── main.py
 - │── background.jpg
@@ -72,12 +72,12 @@ pip install kivy kivymd
 - │── scissors.png
 
 ## 📘 Code Summary
-# Home Screen
+### Home Screen
 - Displays the title FUN TIME
 - A button “Let's Play” navigates to the game
 -Main Screen
 
-# Includes:
+### Includes:
 - Score Label
 - Player & Computer Images
 - Result Label
