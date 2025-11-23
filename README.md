@@ -91,4 +91,4 @@ It also serves as a great beginner-friendly KivyMD project.
 
 ## 👨‍💻 Developer
 ### Harsh Nagar
-- Built using Python + KivyMD
+Built using Python + KivyMD
