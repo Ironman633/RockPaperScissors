@@ -62,7 +62,7 @@ Place these images in the SAME folder as `main.py`:
 ```bash
 pip install kivy kivymd
 ```
-### Keep all files together
+### 2️⃣ Keep all files together
 📁 Game
 - │── main.py
 - │── background.jpg
