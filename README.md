@@ -90,5 +90,5 @@ This project is designed for kids to enjoy the classic Stone–Paper–Scissors 
 It also serves as a great beginner-friendly KivyMD project.
 
 ## 👨‍💻 Developer
-# Harsh Nagar
+### Harsh Nagar
 - Built using Python + KivyMD
