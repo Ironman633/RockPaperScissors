@@ -63,10 +63,11 @@ Place these images in the SAME folder as `main.py`:
 pip install kivy kivymd
 ```
 # Keep all files together
-- main.py
-- background.jpg
-- game_background.jpg
-- stone.png
-- paper.png
-- scissors.png
+📁 Game
+│── main.py
+│── background.jpg
+│── game_background.jpg
+│── stone.png
+│── paper.png
+│── scissors.png
 
