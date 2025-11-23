@@ -1,4 +1,4 @@
-# 🎮 Smart Kids Game – Rock Paper Scissors  
+# 🎮 Rock Paper Scissors  
 A fun, colorful, kid-friendly **Rock–Paper–Scissors game** built using **Python**, **Kivy**, and **KivyMD**.  
 It includes smooth transitions, live score tracking, and a beautiful UI designed especially for kids.
 
@@ -61,3 +61,11 @@ Place these images in the SAME folder as `main.py`:
 ### 1️⃣ Install Dependencies  
 ```bash
 pip install kivy kivymd
+Keep all files together
+main.py
+background.jpg
+game_background.jpg
+stone.png
+paper.png
+scissors.png
+
