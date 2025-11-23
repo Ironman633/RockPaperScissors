@@ -71,3 +71,24 @@ pip install kivy kivymd
 - │── paper.png
 - │── scissors.png
 
+## 📘 Code Summary
+# Home Screen
+- Displays the title FUN TIME
+- A button “Let's Play” navigates to the game
+-Main Screen
+
+# Includes:
+- Score Label
+- Player & Computer Images
+- Result Label
+- 3 Buttons: Stone, Paper, Scissors
+- Reset Button
+- Back Button
+
+## 🎯 Purpose
+This project is designed for kids to enjoy the classic Stone–Paper–Scissors game with a bright, easy-to-use interface.
+It also serves as a great beginner-friendly KivyMD project.
+
+## 👨‍💻 Developer
+# Harsh Nagar
+- Built using Python + KivyMD
